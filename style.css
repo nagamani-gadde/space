@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(225,225,230);
+}
+
+#one{
+    font-size: 15px;
+    justify-content: center;
+}
+#two{
+    font-size: 15px;
+    justify-content: center;
+}
+#three{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    column-gap:20px;
+}
+
